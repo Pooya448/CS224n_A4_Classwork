@@ -1,1 +1,2 @@
-# CS224n_A4_Classwork
+# NMT Assignment
+Note: Heavily inspired by the https://github.com/pcyin/pytorch_nmt repository
